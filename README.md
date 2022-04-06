@@ -10,6 +10,7 @@
 
 ## ⚡️  Certificates
 
+
 ![ss1](./img/beginner-certificate.jpg)
 ![ss2](./img/intermediate-certificate.jpg)
 ![ss3](./img/advanced-certificate.jpg)
